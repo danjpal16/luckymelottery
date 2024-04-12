@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    width: 100%;
+}
+
+.titleh1 {
+    background-color: black;
+    border: 5px solid blue;
+    border-radius: 40px;
+    color: yellow;
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
