@@ -7,6 +7,7 @@ body {
     background-color: black;
     border: 5px solid blue;
     border-radius: 40px;
+    width:65%;
     color: yellow;
     font-family: "Press Start 2P", system-ui;
     font-weight: 400;
